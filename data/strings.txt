@@ -1,0 +1,1921 @@
+prototype
+@@array@@
+arguments
+argument0
+quelength
+title
+argument1
+line1
+argument2
+line2
+argument3
+line3
+argument4
+color
+argument5
+font
+argument6
+vpos
+argument7
+sound
+value
+dec
+power
+mult
+floor
+decision
+image_index
+image_speed
+A old TV set.
+text
+It's currently turned off.
+text2
+Look at the TV
+question1
+*Do nothing*
+question2
+use
+img
+q2
+q3
+q4
+q5
+q6
+q7
+q9
+q10
+q11
+q12
+plugged
+cq2
+cq3
+cq4
+cq5
+cq6
+cq7
+cq9
+cq10
+cq11
+cq12
+room
+x
+ex
+y
+ey
+currentroom
+An old TV set.
+It's currently turned on.
+*Look at the TV*
+It's currently not plugged in.
+*Plug in the TV*
+The TV set is completely shattered and broken.
+The controls were set to channel five...
+ending
+The TV is sitting comfortably...
+It's currently turned off, with no need to be turned back on.
+draw_self
+vy
+random
+draw_sprite_ext
+bimg
+height
+clickready
+stal
+nal
+room_width
+lx
+room_height
+ly
+dialogue
+mouse_check_button_pressed
+collision_rectangle
+audio_sound_pitch
+audio_sound_gain
+audio_play_sound
+mouse_check_button_released
+instance_exists
+instance_destroy
+mouse_check_button
+karistalking
+draw_set_color
+draw_rectangle
+ich
+chsize
+talkal
+dy
+breath2
+tx
+dx
+breath
+angle
+lengthdir_y
+lengthdir_x
+blink
+paradox
+draw_sprite
+alarm
+select
+answer1
+answer2
+ready
+Perforated
+
+Dialog_add
+pos2
+pos
+keyboard_check_pressed
+ty
+draw_set_halign
+draw_set_valign
+draw_set_font
+view_yview
+view_hview
+view_xview
+view_wview
+draw_text_color
+Nothing happened...
+*Take a key*
+keynumber
+You take a key...#It feels... Uncomfortable.
+Almost like it doesn't belong here.
+You take another key.
+Hopefully this one doesn't disappear.
+You take yet another key.
+Let's pray this one doesn't go anywhere...
+You take another key from this seemingly endless pile.
+None of them feel right.
+Maybe just one of these will work?
+Who knows at this point...
+Maybe there is something else wrong here?
+You know at this point...
+Maybe this isn't right?
+We know at this point...
+We are missing something?
+...
+We are missing something...
+...#...
+You are missing something!
+...#...#...
+!gnihtemos gnissim era uoY
+'''#'''#'''
+Try try again...
+Nothing ever happens...
+Are you going mad yet?
+Yet you take a key...
+havekey
+*Destroy the box*
+You destroyed the box, you monster.
+The box crumpled under your mighty strength.
+Critical hit on the box.
+The box tried to run, but you got to it first.
+The box underwent an unfortunate event.
+You destroyed the box.
+Why?
+newparadox
+q8
+Now the box matches the rest of the room.
+Hopefully the box didn't have anything in it.
+You must really hate this box.
+The box was decimated.
+How can you even see the box in this room?
+You destroyed the box anyway.
+boxparadox
+*Take the batteries*
+You took the batteries.
+havebatteries
+*Examine the lock*
+instance_create
+*Set the key inside*
+chestkey
+q1
+You put the key inside the original chest.
+*Open the chest*
+You opened the chest.
+*Close the chest*
+You closed the chest.
+*Pick up the key*
+You took the key from it's original place.
+Who knows what consequences it might have?
+You took the key from the chest.
+*Open the drawer*
+You opened the drawer.
+open
+The drawer is empty.
+d
+*Put the batteries#in the drawer*
+*Put the key inside*
+image
+The batteries are sitting in the drawer.
+What do you do?
+You see the key shimmering inside the drawer.
+Freedom awaits.##What do you do?
+*Take the key*
+*Close the drawer*
+You closed the drawer.
+You put the batteries inside.
+The end table is glowing with a peculiar haze.
+*Touch the table...#again*
+*Touch the table*
+transition
+Traveled
+tranphase
+soundready
+pdoxready
+time
+frequency
+*Insert the batteries#into the radio*
+You put the batteries into the radio.
+The radio bleeps to life.
+The dials and controls spin for a moment, before settling down.
+David looks over at you for a moment.
+Rolling his eyes, he resumes what he was doing.
+batteries
+*Insert the key*
+As you insert the key, a breath of apprehension occurs...
+The key finds its way into the lock.
+You slowly turn it, and...
+The door is now open...
+At last, you are able to escape.
+As you insert the key, you feel your hold loosen.
+Looking down, the key is no longer in your hand.
+The key has completely vanished!
+The door remains locked.
+*Read it*
+audio_is_playing
+p
+This doesn't work... It just doesn't make sense. How am I supposed to explain the phenomenon here? There is no way out of this room. Nothing inside follows any kind of logic either. The door is locked shut with no sign of a key. Is this a prison? Am I part of some experiment? Whoever left this room for me set up several curious amenities that somehow function. The windows reveal a void of nothingness, yet, the television set and stove still function as though they have electricity. And... for some reason, the television set gets one channel.##It's just static though... Wait, I think I see a number hidden behind the static.
+I don't understand why this is happening. The food keeps replenishing, and the firewood never runs out. It's been months since I arrived and I haven't even seen a sign of anyone... I'm beginning to wonder if there is anyone out there... I'm beginning to wonder if this place even exists. Where am I? The view from the windows is unchanging. Occasionally, I hear the rumble of a train passing by, but no train ever does. I would think someone would come find me. I'm still here waiting. There is nothing for me to do, no resources to do anything with while I wait in this hell. The chest is locked, and no conceivable combination will work. I have attempted to force the lock. I did break it, but I wasn't able to open the chest.# The next morning, the lock was back to normal.#I sometimes think of starving myself, but I am never hungry. I eat only for pleasure to subside the constant boredom. I have no choice but to wait...#Wait for a salvation or some sort of ending that will never arrive...
+I don't think either of us understand what is going on exactly. This place has never really made sense, but now, it defies any attempts to follow logical structure. She still believes that there is something to understand, some puzzle to solve. I pity and envy her. I wish that I could say the same. Still... It is good to finally have someone around. The loneliness was starting to do bad things to my mind. I hope she will realize sooner rather than later, the situation here is hopeless. That way, she might be willing to actually sit down and have a conversation instead of searching every single inch of the room. It would be nice to actually have someone to talk to for once...
+karisblue
+This cannot be happening. Who is this creep? Why is he all alone here? There has to be some way out of here. I don't trust him.
+He certainly is interesting to talk to. But he's a bit... off. I don't know how to describe it. He's both quiet and very, very talkative. It's like, the moment I bring up something he likes, he suddenly won't stop talking... I guess it's probably because of how long he's been here. I do feel sorry for him though. He definitely is trying and I understand why. He's been alone for the better part of a year, and it must've been awful.#He thinks I've given up trying to escape, and the reality is...##I haven't.
+She finally stopped obsessing a few days ago. It's so nice to have someone to talk to. We oddly have a lot in common and we find ourselves talking for hours. She's warmed up to me, I think. #I am grateful. We don't have much, but we do have each other for the time being. I let her have the bed for now, and I sleep in the chair for the time being. I feel like that would probably be the polite thing to do. Trying to remember my manners is helping, at least it's something I haven't lost yet.
+He thinks he owns me! This is absurd, we are already sleeping in the same bed! What more does he want? So what I'm messing with the radio, I'm so close to figuring it out.##This isn't just a radio, it's something more. If only I could spend more than just nights figuring it out. I know it will take me away from this place.#I need to get out of here before he reacts worse than last night. We keep fighting over stupid things... It's getting harder to feel bad for him.
+She lied to me. I woke up and she was not in bed. She was fiddling with that stupid radio. She told me, it was because she was bored. Why does she think she can escape? I've already tried to, many times... #I think I still understand, but my memory of the outside world is getting so dim, which makes it hard to sympathise.#I really need to convince her that it is pointless. I wasted so much of my time trying to leave, there is nothing left out there anyway...
+What's the point?#############She's gone...
+I thought I did it, but I'm just back in the room again...##He's not here though.##So I guess this is a success? I may regret this though... The thought of being alone is frightful, and look what happened to the room... Did David do this? Was it because I left? I can't help but feel slightly guilty. At least I can figure this radio out in peace.##There has to be some pattern to this thing. Some way to control where this device takes me. It's got to be the right combination of dials, maybe if I just...
+I've cracked it! The Radio allows me to travel through time! I'm not sure, but it has something to do with the frequency and volume. There doesn't seem to be a discernible order to it. It certainly isn't linear, because I've had numbers on both sides take me to the past and the future. I'll figure out the pattern eventually, but now I'm at least getting somewhere.
+I've set up the room to my liking. I'm happy with how everything looks, and I've figured out how to make several meals. I feel safe for the moment, but... All things considered. I'm concerned because I don't know whether I am in the future or the past. Either way, where is David?##If this is the future, what happened to him? And, If this is the past... I really hope I don't run into him in the coming weeks. I certainly don't want to create a paradox. I don't even know what that would be like... With me jumping back and forth everywhere, I'm surprised It hasn't happened yet...
+The time travel frequency seems to have something to do with even and odd numbers. The whole thing is a spectrum, with the center frequency being a medium. The further from the center, the further in the desired direction of time. I think odd, means the future, and even means the past. I've noticed several paradoxes that have already occured, and I think there are a few more I might have to create, to escape this place once and for all.
+The amount of paper collecting everywhere is, concerning...##But the more scary thing is... Who wrote all these notes? I certainly didn't, and I also saw these notes appearing when I was in David's timeline... Oh... Oh God, are these? These notes are our thoughts... Someone is transcribing our thoughts! What? How... is this happening... Maybe David found my thoughts and that's why...####I need to get out of here...
+Nothing seems to be correct anymore. I cannot take anything with me, but for some reason the drawer in the end table seems to keep anything I put in it, regardless of the timeline. I can use this. Maybe I can find the key to the door and bring it here...
+1. Batteries#Hide the Batteries. That way he can't follow me... They're in 105.3.##2. Keys#.I've taken every key from every possible time frame, and brought them here. That monster should never be allowed to escape, damn creep. He can stay and deal with the paradoxes for all I care.##3. Lock#I've locked the chest at the original time frame. There's no key in there, but by any chance he finds a way, I don't want him restoring the paradoxes. In case I forget, the combination is etched under the table in 97.3... I need make sure to enter the second number last, or else it won't work for some reason...##Then I'll burn this letter after I test the key. With any luck, I'll finally open that door.
+You plugged the TV in.
+It's a piece of paper.
+papercolor
+reading
+action_set_alarm
+draw_set_alpha
+draw_text_ext
+volume
+cimg
+powerup
+realfreq
+realvol
+Rest
+snap
+snapvol
+endinglock
+volmeter
+shake
+freqmeter
+xplace
+yplace
+timg
+Outwards
+currenttime
+r1
+r2
+r3
+r4
+r5
+r6
+r7
+r8
+r9
+r10
+r11
+r12
+Inwards
+roundto
+rounded
+adjust
+Test
+Moving
+timerounded
+endingstate
+paused
+The radio will not turn on.
+With a little further investigation, it's clear that the radio is missing batteries.
+davidnear
+The radio will not turn on...##You see a slot to put in some batteries.
+With the strange humming batteries in hand, what do you do?
+Your batteries fit, but the radio doesn't turn on.
+You take the batteries back.
+mouse_y
+mouse_x
+audio_stop_sound
+depth
+Finished
+Reset
+point_distance
+margin
+view_angle
+Complete
+Starting
+action_if_variable
+__b__
+id
+string_format
+draw_text
+The end table looks a bit peculiar.
+state
+inventory
+pimg
+pimgspeed
+pdox
+You hear the batteries humming inside.
+The end table is glowing and quivering. It doesn't make any sense, yet the space around it feels cold.
+It's unlike anything else in the room right now. What do you do?
+The end table looks completely normal.
+You hear the key rattling around inside.
+The door is locked.
+You are stuck in here.
+attack
+The door is locked.##You are stuck in here.
+But you have the key...
+It's time to leave.
+Take the key in hand and escape!
+angle2
+pressready
+hspeed
+vspeed
+keyboard_check
+pd
+angle_difference
+dd
+abs
+min
+sign
+talking
+It is pile of keys on the ground.
+clicked
+mx
+my
+action_set_relative
+action_if_object
+window_mouse_set
+It's a pile of keys on the ground.
+It is a pile of keys on the ground.
+It's a complete mess.##But you already have one...
+It's a complete mess.##What do you do?
+A comfy looking recliner.
+The chair is new and barely used.
+It has a fresh smell.
+The recliner has seen minor use.
+But, it looks like it was moved back and forth quite a number of times.
+It looks like the material of the chair is beginning to become a little bit worn.
+The recliner is very well used.
+It looks like it was often set in the reclined position.
+The chair seems to have been frequently used.
+The mechanism to recline hasn't been used in a while.
+The chair is torn up and tipped over.
+The destruction is unsettling.
+The chair looks recently repaired and recently moved.
+It looks very meticulously placed here.
+The chair looks well used, but not worn.
+The recliner has been moved towards the wall.
+Almost as if someone was in a hurry.
+The chair is completely covered in dust.
+It is sitting at the edge of the room and has no signs of use.
+A coffee table with a book and a TV remote
+The table is clean and neatly placed.
+It appears very new.
+The table seems to be used often.
+A piece of paper and a TV remote is set on the surface.
+The table has had stuff moved around all over, creating small scratches on the surface.
+The table seems to be polished, hiding some small scratches on the surface.
+The table has minor wear, as if the owner no longer cared to keep it pristine.
+A coffee table with a book and a TV remote.
+The table is completely damaged and turned over.
+On the underside of the table there is a number scratched into it.
+1971
+The table has been recently repaired and set in a new location.
+The table is well used and well kept.
+The table has been quickly moved towards the wall and turned over to make space.
+There is a layer of dust covering the turned over table.
+This thing hasn't been touched in a while.
+A dirty clothes bin.
+It contains a mound of dirty laundry.
+The basket is completely empty and has nothing inside it.
+It also smells like fresh wicker.
+There are a couple of dirty clothes inside the basket.
+There is a combination of men's and women's clothing piled inside the basket.
+The basket is empty and clean.
+The basket is covered in thrown about clothes.
+The basket is thrown on its side.
+All the clothes that were inside of it are piled along the floor.
+The basket is clean and contains only women's clothing.
+There is a mound of dirty women's clothes inside the basket.
+The basket has been pushed to the side of the room.
+There is a pile of untouched laundry inside.
+Covered in dust, the basket is as messy as the rest of the room.
+And equally untouched...
+The trashcan is filled with crumpled up papers.
+The trashcan is completely shiny and clean.
+It looks new, and it doesn't have anything in it.
+The trashcan has a piece of paper in it.
+The trashcan has quite a few pieces of paper in it.
+The trashcan has a lot of paper in it.
+The trashcan is completely empty.
+The trashcan is on its side and seems to be damaged.
+The trashcan looks recently repaired and polished...
+There is a few pieces of paper inside...
+There is a lot of crumpled up paper inside the trashcan.
+It looks like someone was rummaging through it.
+There's a couple of keys sitting inside the can.
+The can is empty.
+A rather nice looking bed.
+The bed is completely made and has a new smell to it.
+It has not been used much.
+The bed has seen some use and some restless nights.
+The bed has been very well made.
+It looks like the mattress has seen a lot of wear.
+Seems like someone keeps getting up to do something, then going back to sleep.
+The sheets and blankets have been thrown around angrily.
+The bed has been recently repaired and neatly moved to a new corner.
+The bed is infrequently used, yet very well made.
+The bed has been slightly moved to the side as far as it could go.
+The bed has not been used in quite a while.
+The sheets and blankets are covered in dust.
+A collection of fire tending tools.
+The tools are completely new.
+They are set up perfectly, just sitting in the stand.
+The tools have been knocked over.
+The tools have been moved over and over again...
+As if someone was looking for something.
+The tools have been recently used to make a fire.
+Then placed carefully back.
+The tools look like they've been used often.
+The tools were strangely left alone amongst the carnage.
+The tools look like they were carefully and meticulously put in their place.
+The tools haven't been used in quite a while.
+The tools and the stand have not been touched in a long time.
+The tools are completely covered in dust.
+A stack of cold, hard, firewood.
+A freshly cut stack of firewood resting on a shiny new stand.
+The stand is empty and the floor is covered in firewood.
+A couple of pieces have been taken and probably used in a fire.
+The stand has wear, as if firewood is consistently being taken from it.
+The firewood doesn’t seem to have been used.
+The stand has been completely overturned and wood is piled everywhere.
+The stand looks recently put back together.
+The firewood looks neatly stacked.
+The firewood is cold and hasn't been touched in a while.
+Stand has been completely relocated and the firewood has rolled off.
+The stand looks damaged and has not been touched in ages.
+The plant is healthy and well watered.
+The plant is incredibly healthy.
+It looks like it was just put here recently.
+The plant has been well tended and watered with care.
+There are marks on the floor from when pot was recently moved.
+The plant is doing well, but it is a little dehydrated.
+The plant seems to be neglected.
+The plant looks like it has been completely forgotten.
+The plant has been torn to pieces.
+It looks like someone is trying to bring the plant back to life.
+The plant is being meticulously kept with care.
+The plant has been recently moved, yet it has still been watered.
+The plant is thriving and incredibly healthy.
+It is the only thing in the room that has received attention.
+The chest is completely empty.
+locked
+It's an open, empty chest.
+It's an open, empty chest. But this feels right for once.
+The chest is closed.
+The chest is shut tight by a combination lock.
+The chest is open, the key is laying comfortably inside.
+It's in the original timeframe, no point in removing it.
+Inside the chest are a couple of batteries.
+An empty cardboard box.
+vibrate
+pmsg
+It's a destroyed cardboard box.##Well Done.
+action_create_object
+Default
+boxcolor
+position
+textspeed
+psound
+txty
+nextquestion
+pal
+t
+Cutscenestate
+string_length
+Paradox Created
+Paradox Removed
+Saved Game
+(E) Examine
+(E) Conversation
+deaths
+firstime
+asset_get_index
+xplus
+linew
+lineh
+first
+second
+third
+string_copy
+(Space) Continue
+action_if_dice
+gender
+escaped
+endofgame
+make_color_rgb
+load
+exitimg
+exital
+talkvol
+Select
+The time is gone, the song is over
+window_set_caption
+July 29th 1970
+September 29th 1970
+January 2nd 1971
+April 14th 1971
+May 5th 1971
+May 21th 1971
+June 3rd 1971
+July 9th 1971
+August 13th 1971
+October 27th 1971
+December 29th 1971
+February 2nd 1972
+instance_number
+Mood
+sound_stop_all
+speed
+Save1.dat
+file_exists
+i
+tile_layer_hide
+tile_layer_show
+rx
+ry
+Save.dat
+game_load
+game_save
+window_get_fullscreen
+window_set_fullscreen
+window_set_size
+game_restart
+endingmove
+dying
+breathready
+breath2ready
+eyex
+eyey
+scroll
+scrolly
+selected
+tipcount
+Moodal
+dyt
+qimg1
+qimg2
+qimg3
+qimg4
+qimg5
+qimg6
+qimg7
+qimg8
+qimg9
+cq1
+cq8
+Who are you?
+text1
+How did you get here?
+How long have#you been here?
+text3
+Time Travel?
+text4
+Paradoxes?
+text5
+Train?
+text6
+Keys?
+text7
+David?
+text8
+Escape?
+text9
+dir
+David...
+I'm sorry...
+Let's go...
+direction
+point_direction
+qimg10
+qimg11
+startup
+Hello?
+W-who is this?
+I can't really hear you!
+Um...
+Wait?
+Hold on, who are you?
+How are we talking?!
+Do you need to talk to me?
+K-Karis?
+Karis?
+H-How?
+We need to talk...
+Can we talk privately?
+No, David...
+We need to talk here and now.
+You need to listen,
+We found the way out!
+We can all go home now!
+David, please...
+I'm sorry.
+I'm sorry I left...
+No...
+You disappeared, you left me alone. 
+How can you expect me to just be alright with that!
+You were the only person I had!
+You don't know what it's like to be alone for so long...
+For you to just leave, then come back here...
+To act like nothing happened between us...
+You have to understand.
+It was more complicated than that.
+I wanted to leave this place...
+I wanted out!
+But, you wouldn't let go of this place!
+Please David... Try to understand what I went through.
+I couldn't do it!
+I couldn't spend years here! I'm not as strong as you...
+I needed to leave. I needed to find a way out. I wanted to get your help, but you resisted.
+I resented you...
+Obviously...
+Eventually, I couldn't even bare the idea of taking you with me.
+I-I'm sorry...
+David... I'm sorry I left.
+Please, David!
+Please... It was wrong of me...
+David... We found it...
+Please, can you forgive me long enough so we can all go home...
+I...
+I-I wanted to...
+I needed to...
+But, you left...
+The only good thing left in my life...
+I was left alone... again...
+David... I'm sorry... It was wrong...
+It was cruel...
+But we can fix things now...
+W-We can?
+Yes David!
+We can leave!
+Forget all of this... Start over!
+Go home?
+We...
+We can actually go home?
+Yes...
+Please David...
+Let's leave this horrible place...
+What do you say, David?
+Let's go home...
+T-Thank you David...
+Let's all go home now.
+YES!!!
+IT WAS WRONG!
+IT WAS CRUEL!!!
+YOU LEFT ME!!!
+LEAVE ME ALONE!!!
+D-David...
+Please... I-I can't change what happened...
+STOP TORMENTING ME!
+David... I do still care about you...
+Please Just... Come with us!
+SHUT UP!
+YOU DO NOT KNOW WHAT I'VE GONE THROUGH!
+THE THINGS YOU PUT ME THROUGH!
+I DON'T WANT TO EVER SEE YOUR FACE AGAIN!!!
+LEAVE!!!
+I-I...
+Leave... now...
+runimg
+vdir
+#*Karis is pleased to see you*
+Hey!
+You did it!
+You actually, really, did it!
+I can't believe!
+I just...
+I don't know who you are or where you came from!
+But you're a genius!
+You fixed everything! You repaired the timeline...
+I-I just... I can't believe it...
+Everything I caused... You...
+I'm sorry I put you through this...
+I'm sorry for everything.
+The thought of seeing my home again after all this time...
+It... It's bringing me to tears...
+I'm sorry, I'm caught up in everything and it's distracting me...
+Please... Let's get out of here.
+Use the radio to take us back to the present.
+I think we both want to get out of this horrible place.
+I'll try and talk to David...
+Hopefully he's okay...
+I'm ready... Let's go home.
+This isn't the right time frame...
+We need to go to the present.
+I shouldn't have to tell you it's at 98.0
+Please, I can't wait any longer.
+H-y--c-n--ou--h--a--e!!!
+H-lp-m-!
+P-e-s--h-lp-m-!
+T-l-v--i-n!!!
+Ch--n-l-5!
+P-t-all-the-tv-to--ha-nel-fiv-!
+My name is Karis, At least I'm pretty sure that's what it was.
+But I have a feeling you already know about me...
+You're in the room right now... Which means you found the papers...
+I'm the one who figured out how the radio works.
+And so did you apparently.
+But I think you figured out a bit more than the radio. You solved the TV problem...
+And I think you also started unraveling the paradoxes too...
+This is why we are able to talk!
+(Karis is eager to talk to you)
+I think I broke the timeline,
+I messed up...
+I mean, I really messed up.
+I thought I was so smart...
+I thought I had it figured out...
+I... think it knew...
+The room did...
+It does things to you...
+It listens.
+I said things that I really shouldn't have.
+This is my punishment...
+I know it is!
+I wanted to leave him here...
+I did everything in my power to stop him from one day finding the way out...
+But I screwed myself in the process...
+This is my fault... all of this. I caused myself to be stuck here.
+I'm a bad person... aren't I...
+(Karis looks down, then back at you)
+That's not a question that can be answered... It's like a dream. One second feels like eternity... 
+But what does eternity actually feel like?
+Take all my sins and count them up as years...
+It's indescribable... and also indiscernible. 
+Can you tell me how long you've been in the room?
+You might say twenty minutes? You might say several hours?
+Do you really know? Does time work the same for you in the room?
+Does time work the same for you in there as it does for me in here?
+This question doesn't help us get anywhere.. We have more important things to talk about!
+(Karis awaits the next topic)
+YES! The radio travels through time, as you've probably already figured out!
+It's a self contained little time machine, that exists throughout all of time!
+It took me months to figure out how to get it working again.
+But you only needed to put the batteries back in?
+My fault for that...
+I know it doesn't make any sense... But I found a pattern to it.
+Frequencies!
+The numbers are important!
+So is the needle, and so is the distance from the center!
+98.0 is the present frequency. It's where time is currently resting.
+The farther you go from the center, the further from the present!
+Yes, Yes.. I know it still doesn't always work, but that's because of the number.
+Even numbers take you to the past, odd numbers take you to the future!
+The volume needle is the key to understanding it. Look at where it rests when the light is green!
+That's the true timeline!
+(Karis awaits your questions)
+This is the real issue isn't it...
+There is some way to see the current number of paradoxes. But... I don't know...
+I don't remember fully... I think it had something to do with the TV static.
+These paradoxes... the ones I helped to create...
+This is what is preventing me from leaving the void...
+There's a number of them... 
+Oh... I hope you didn't create any by accident...
+Did you change anything?
+Break anything since you arrived?
+Anything that's in all the timeframes?
+If you did, you created a paradox...
+If you did... Then... Well I hope it's something you can fix?
+Please. The only way to fix a paradox is to make everything the same.
+If you broke something, break it in every timeframe.
+If you changed something, make it the same in every timeframe...
+I can't get out unless you fix all the paradoxes...
+(Karis is deep in thought)
+A symptom of the paradoxes...
+I can't speak to what actually happens...
+I never stuck around long enough to see what happens...
+It was a bit too frightening...
+But if I was to make an assumption...
+It might actually be yourself arriving in the train...
+And, well... interacting with yourself creates issues...
+It breaks the timeline.
+And that is not good.
+But if you fix all the paradoxes...
+Bring the number down to zero!
+Then hopefully that will stop happening.
+Let's pray that the next time we see that train...
+That we're the ones getting on it.
+(Karis seems frightened by this subject)
+This is my fault...
+I may have done something,
+Really bad...
+I wasn't thinking...
+I was just in a state of mind that, in hindsight may have been caused by the isolation of the room...
+This is going to be tough to talk about, excuse me for a moment.
+I was trying to escape...
+I found the key to the door...
+But it wouldn't work for some reason...
+I thought it may have had to do with the timeline.
+I kept taking keys from chests all over the timeline, yet they continued to return. Even after I had taken them somewhere else.
+It must be the same reason that the food returns every day, and the same reason the room continues to stay the same.
+Time obviously doesn't work the same in this place. 
+To truly alter the timeline of objects, one must return or take them from their point of origin.
+Or else, it creates a paradox.
+The key's point of origin is 88.2.
+If it is in it's own point of origin, it will appear everywhere else.
+I thought gathering every key from every timeframe would be a good idea.
+Turns out it was just a waste of time.
+The key doesn't even work on the doors unless it is used at the present timeframe I presume.
+But I was determined to stay away from David.
+Irrationally...
+Even the thought of seeing him, or even the chance of letting him leave the room...
+It just...
+Even if it cost my own freedom. I needed to find a way out of the room,
+A way that didn't involve... him.
+So, I took the key from it's point of origin.
+And took it as far as I could think of.
+And... all the keys I had found...
+I... I messed up the timeline really badly.
+So badly that the room isn't fixing it by itself.
+You see how this is my fault... I was so obsessed with punishing him... that I cost my freedom,
+I was so obsessed with punishing him... that it cost my freedom, his... and now yours.
+You are in the room...
+You have the power...
+Fix what I did. Take the key and return it to the point of origin.
+It will return to each and every time frame.
+And the paradox I created will be fixed.
+(Karis looks hopeful)
+He is,
+An uncomfortable subject for me...
+He was so obsessive...
+Over and over he asked me to stop trying to solve the problem. To leave the radio alone.
+What was his problem! I wanted to leave, and he discouraged me every chance he could...
+But...
+He wasn't rude...
+He was nice about it...
+David is complicated...
+Because, well, he really is a nice person.
+But I'm afraid the isolation of this place has broken him. Taken everything he was, and hidden it...
+Underneath a wall of... something.
+We would talk for hours.
+It was the only thing we could do.
+It was nice...
+Compared to what I remember outside, he was wonderful.
+It was during those talks, when he showed me what he was really like.
+He was polite, as polite as he could be after being completely alone for over a year.
+I don't know why I resented him so much.
+I was obsessing too. You know?
+Making everything worse right alongside him.
+What happened was both of our faults I think...
+I took advantage of him... and he didn't mind.
+I lied to him, and that's when he lost it...
+And, then I left...
+When we get back...
+I think, I need to talk to him.
+I want to believe that I haven't hurt him so much that he refuses to leave.
+(Karis feels guilty)
+Okay...
+Well,
+I need your help...
+David needs your help.
+This place makes no sense, and makes people do things.
+But you can fix it. Fix every paradox...
+Take the key to its point of origin. Take anything that you broke or changed,
+Make them all the same, even if there is only one way...
+Fix it.
+Every paradox that I made, every one that you made. 
+They need to be fixed.
+Take the number to zero. 
+Then find me in the void.
+Only then, I'll show up.
+Find me in the void, and we'll go back together. I'll talk to David...
+Talk to him...
+We will all get through this.
+We will all go home together!
+(Karis awaits your return)
+walkback
+What is this place?
+Radio?
+Key?
+I'm back?
+What's up with#the television?
+Where does the#food come from?
+When did the other#person arrive?
+Relationship?
+text10
+text11
+!!!
+Wait!!!
+D-Did...
+Did you really need to close the door behind you?
+Whatever...
+It doesn't matter anyway...
+round
+#*David is... Happy...*
+#*David is Normal*
+#*David is Annoyed*
+#*David is Angry*
+#*David is Unstable*
+#*David is Eerily Unresponsive*
+Hey, you need to talk to me?
+What do you want?
+What?
+Go away...
+You hungry?
+David.
+Was there anything else?
+Look, I really don't know what you want to know about me.
+My life story isn't very interesting...
+Plus I don't really remember too much anyway.
+Alright, Stop.
+I don't appreciate your prying.
+I don't have to answer any of your questions.
+(David does not respond)
+This is the room.
+The only room...
+This is the only place that exists anymore.
+When you came, you saw a train station outside, right?
+What was around you?
+Then you just walked through a door.
+I don't really remember myself...
+But if you could describe to me what it was like,
+Then...
+Well...
+Actually,
+Nevermind.
+I really don't have the energy for this kind of talk anymore.
+I've been here so long that the mystery of the room or the outside, just doesn't interest me anymore.
+It's nothing personal...
+I'm just tired.
+Just...
+If there's anything else you wanna talk about.
+Just let me know...
+Please STOP.
+I already told you.
+I DON'T want to talk about this anymore.
+So, STOP asking me!
+(David looks away)
+God...
+I uh...
+Wow, I don't know.
+Long enough that it's hard to remember.
+I mean...
+It's not even that it's just hard to remember,
+But it's hard to even feel.
+I told you, I really don't know.
+This isn't something that comes easily anymore.
+My head is fuzzy these days.
+I guess if I had to describe it,
+You know that feeling when you've been somewhere so long, that it feels like home?
+That length of time that causes days or months to lose meaning?
+That long...
+Long enough that I can barely remember the first time you asked me.
+Huhahaahahaa.
+C'mon now though.
+You really don't need to keep asking this.
+Look.
+I understand your curiosity.
+I think I used to be like that originally.
+When I first came here.
+But my memory has faded.
+It faded a long time ago.
+Your constant questioning isn't going to help.
+The only thing it's doing is annoying me.
+Thank you.
+I would appreciate it if you dropped the matter.
+Why do you INSIST on continuing to approach this subject?!
+I don't remember, It was SEVERAL YEARS ago!
+(David ignores you)
+That thing has caused nothing but trouble.
+Don't mess with it..
+It won't do any good.
+You fixed it?
+Why would you do that?
+The last time that radio was messed with, It caused a lot of pain and suffering...
+I would really appreciate it if you would please leave it alone.
+I said leave it alone, destroy the cursed device!
+If you don't I will...
+Eventually...
+(David looks at the radio)
+Heh... a key?
+To the door?
+You think a key exists?
+I feel sorry for you...
+I think I remember what it was like...
+Hoping for a way out. It was so long ago...
+I really wish I could tell you there was... but there isn't.
+Believe me. Don't waste your time.
+I told you not to waste your time... 
+There is no key... There is no way out!
+There is nothing else out there!
+You're just going to end up...
+Nevermind... Just stop... just don't talk to me about it...
+STOP IT!
+Stop trying to give me hope!
+You are taunting me!
+There is nothing!
+Nothing to try for.
+This is it!
+Don't you realize?!
+THIS IS THE END!
+We are stuck here, waiting for time to realize there is nothing left!
+We are waiting to die...
+(David looks down)
+You left?
+I didn't even notice...
+How long were you gone?
+Great... well, I hope wherever you went was better than this place...
+It wasn't was it?
+I don't really care though...
+Do I look like I care?
+I don't want to know!
+I don't want anything.
+Just leave me alone!
+I GET IT!
+You are trying to leave!
+You are trying to find a way out!
+Well! Just do it already!
+Since there is nothing for you here.
+What am I worth?!
+Nothing!
+SO WHY DON'T YOU JUST LEAVE, AND DON'T COME BACK NEXT TIME!
+(David continues to ignore you)
+It can tune into a single channel...
+Only one channel...
+To answer your question,
+I don't know how it works, it just does.
+I plugged it in, and it turned on like it's supposed to.
+I've never been able to tune into any other channel. I only get static... yet the one channel I get is just a black screen anyway...
+Always static on any other channel setting... I don't even get the point of the stupid thing...
+Occasionally I hear voices coming from the TV...
+The voice only happens when the TV is turned on, tuned to one channel that it receives.
+I can't make anything out, it sounds like yelling, but it's also so quiet that It's not intelligible.
+It's not real is it?
+I'm just going insane right?
+What difference would it make anyway?
+Everything in this place is just to torture me...
+What else do you want me to say?
+You already think I'm crazy...
+Hell, I think I'm crazy.
+Yet you keep asking.
+Which is starting to become insulting.
+Are you just mocking me?
+You can't take a hint can you?!
+END THIS CONVERSATION NOW!
+You are a rude insensitive person and I'm done talking about this.
+(David glares at you menacingly)
+Nowhere...
+It just shows up every morning. I assume it's because nothing matters in this place...
+I mean you don't really even need to eat...
+It doesn't do anything.
+Nothing changes and nothing matters...
+Every morning... Not that this place even has a morning...
+Time doesn't matter, breakfast isn't breakfast...
+Dinner isn't dinner, and lunch isn't lunch...
+Food is tasteless after a while...
+I told you... I don't know!
+You think I haven't tried to figure it out?!
+You want to know what I've learned about this room?
+There is no point to figuring out anything!
+Nothing makes sense!
+Why do you think I have the answers?!
+I DON'T KNOW!
+TIME IS IRRELEVANT!
+Time doesn't move!
+Food doesn't matter!
+Nothing matters!
+STOP TALKING TO ME!
+(David is visibly shaken)
+How do you know about her?
+That doesn't make any sense...
+I don't remember exactly.
+She just kinda, walked into the room...
+Kind of like you did...
+Idiot closed the door behind her!
+What was she thinking?
+Why did she have to arrive... she just made everything worse...
+She just had to... I don't want to talk about her...
+NO... Stop, why can't you respect my privacy. 
+You just have to pry into everything!
+(David refuses to speak to you about this)
+None of your business...
+How do you even know about this?
+I have no reason to talk about this to you. 
+It was a private matter between me and her and it is really none of your business.
+I asked you to leave the subject alone.
+She means nothing to me anymore.
+And she left a long time ago...
+She's not even around so it's not even relevant to you.
+I don't want to talk about her, I don't even want to remember.
+I told you to leave the subject alone!
+I hate her, I don't even want to have her in my mind.
+Stop ASKING!
+SHE HATED ME!
+What did I do to her!
+I was nice? I was polite?
+She just wouldn't stop... She wanted to leave me alone! Abandon me!
+We became so close, one fight and she left.
+WHY?
+Because she's selfish, she only cares about herself!
+I tried so hard, but she obsessed over that damn radio!
+There's nothing out there, home isn't real, only this hellhole of a room exists!
+She probably wasn't even real, SUCH A CRUEL WOMAN COULDN'T POSSIBLY EXIST!
+GET OUT OF MY FACE YOU NOSY PIECE OF...
+I'm... Sorry... I can't do this anymore... Leave me alone...
+(David stays silent)
+You're lying...
+You just want to mock me...
+But, that key...
+I can't...
+How?
+This doesn't make any sense...
+There isn't any way out of here.
+There is nothing outside.
+Please...
+This doesn't seem real.
+I want to go home...
+I want to leave this place!
+I want to get out of this place once and for all.
+Thank you...
+(David is ready to leave)
+No... NO!
+GET OUT OF HERE!
+YOU ARE NOT REAL!
+THAT KEY IS NOT REAL!
+NOTHING IS REAL!!!
+GO!!!
+STOP TORMENTING ME!!!
+(David looks at you with disgust)
+steam_api
+steam_initialised
+steam_stats_ready
+steam_is_overlay_enabled
+StartState
+Menuready
+musvol
+room_speed
+startal
+presstartimg
+pressstart
+Have your ticket ready.
+Quit
+Settings
+Start
+power_off
+Leaving Now?
+Windowed for captions.
+Train's leaving now...
+room_goto
+game_end
+action_sprite_set
+action_draw_sprite
+action_move_to
+xstart
+ystart
+action_set_motion
+action_move_random
+action_wrap
+wheel
+dial
+window_mouse_get_x
+window_mouse_get_y
+freqmove
+mouse_wheel_up
+mouse_wheel_down
+volmove
+flipped
+Final Stop...
+xmove
+txmove
+action_next_room
+size
+action_another_room
+move
+movesound
+movepitch
+q
+credits
+Alpha
+Wake up...
+This is the final stop.
+The door quietly closes behind you.
+You and David shut the door behind you.
+The door slams behind you.
+The door slams loudly behind you and Karis.
+You all slowly close the door behind you... Knowing that freedom is finally here.
+d1
+d2
+d3
+d4
+dist
+ydist
+lockready
+q1x
+q2x
+q3x
+q4x
+q1move
+q2move
+q3move
+q4move
+final
+completed
+movespeed
+xselect
+yselect
+wallready
+walksound
+object_exists
+action_set_hspeed
+action_set_vspeed
+dscreen
+action_move_contact
+px
+py
+img1
+img2
+formation
+np
+image_index2
+change
+aproach
+al
+al2
+trainvol
+alarmtest
+action_kill_object
+pop
+killimg
+dead
+songvol
+deadimg
+hxspeed
+hximg
+spd
+imgspeed
+mastervol
+creditready
+STEAM_ending4
+steam_get_achievement
+steam_set_achievement
+STEAM_ending3
+STEAM_ending1
+STEAM_ending2
+STEAM_ending5
+STEAM_ending6
+STEAM_ending7
+audio_stop_all
+You hear the familiar sound of a train coming...
+You hear the sound of a train coming...
+I just wanted to say...
+Thank you, for helping me...
+I just wanted to help him...
+I just wanted to fix it... Make things right...
+Why didn't he just listen...
+This is it then...
+It really is...
+Yes?
+I'm sorry for what happened...
+I-It... It just...
+I'm sorry for the way I treated you...
+The isolation does things to us...
+Maybe it was the room...
+The more terrifying thought is...
+What if it wasn't...
+The humming of the paradox is getting closer.
+The quiet void soothes your discomfort...
+Freedom awaits as the train rumbles closer.
+Well... This is it, isn't it...
+And... I don't know what is going to happen...
+But really...
+You...
+EVER SINCE YOU ARRIVED!
+YOU'VE DONE NOTHING BUT DISREPECT AND PRY INTO EVERY FACET OF MY LIFE!
+YOU DON'T DESERVE TO LEAVE THE ROOM...
+You don't deserve to live at all...
+Both of you...
+You left me behind Karis...
+And YOU!
+NEITHER OF YOU DESERVE TO LEAVE THE ROOM...
+You both don't deserve to live at all...
+ After all this time.
+We're leaving...
+Yeah... We are...
+It's overwhelming... I don't understand these feelings... It's been so long since I really felt anything this intense...
+It is overwhelming...
+D-Do?
+Do you think we'll find each other after all this is done?
+Only if you want to...
+After everything that happened... I don't know why you'd want to...
+It's your choice...
+I do... I want to find you again...
+I-I'd... I'd like that...
+Now what?
+We wait...
+And you ... Thank you for helping...
+Thank you for fixing all our mistakes...
+I don't know if we'll ever see you again...
+But, without you... I don't know what would've happened...
+Thank you for helping us.
+keyboard_check_released
+The Ending
+*Escape*##You left David Behind##Abandoned Ending 4/7
+*Death*##You were removed by the paradox##Paradox Ending 3/7 ####The amount of existing paradoxes was greater than zero
+*Death*##You were hit by the train##You idiot
+*Escape*##You left with David##Escape with David Ending 1/7
+*Death*##You and David were removed by the paradox##Paradox Ending 3/7####The amount of existing paradoxes was greater than zero
+*Death*##David killed you##Homicide Ending 2/7####
+*Death*##You were run over by the train after David tried to kill you##Homicide Ending 2/7####
+*Paradox*##The timeline corrected itself by removing you##Paradox Ending 3/7####The amount of existing paradoxes was greater than zero
+*Death*##You and David were run over by the train##Homicide Ending 2/7####
+*ESCAPE*##David was run over by the train after trying to kill you##Self Defense Ending 5/7####
+*Death*##David came and killed you AND Karis##Double Homicide Ending 6/7####
+*Death*##You were run over by the train after David tried to kill you and Karis##Double Homicide Ending 6/7####
+*Death*##You and David were run over by the train; after David tried to kill you and Karis##Double Homicide Ending 6/7####
+*ESCAPE!*##You all escaped together!##True Ending 7/7
+Composed, written, illustrated, and programmed by Jesse Carradine
+Thanks to my family and friends for their support in making this.
+Thanks to my cat for walking on my keyboard every single night.
+Thanks to Steam for letting me publish this.
+And,
+Thanks to you for playing!
+The Room Syndrome
+The_Room_Syndrome
+GameMaker: Studio
+@@SleepMargin
+1
+@@DrawColour
+4294967295
+Object_Description_Bleep
+.wav
+Object_Description_Bleep.wav
+Music_1
+Music_1.wav
+Room_7
+Room_7.wav
+Really_Confused_Sonic
+Really_Confused_Sonic.wav
+jesse_isnt_a_musician
+jesse_isnt_a_musician.wav
+Talking_to_David
+Talking_to_David.wav
+I_made_this_track_first_try
+I_made_this_track_first_try.wav
+Simply_the_End
+Simply_the_End.wav
+I_made_this_track_second_try
+I_made_this_track_second_try.wav
+Ending_Conversation
+Ending_Conversation.wav
+UI_Sounds
+UI_Sounds.wav
+Walking_snd
+Walking_snd.wav
+Drawer_snd
+Drawer_snd.wav
+Static_snd
+Static_snd.wav
+Static_2_snd
+Static_2_snd.wav
+Radio_Beep
+Radio_Beep.wav
+Radio_Static_2
+Radio_Static_2.wav
+Train_Static
+Train_Static.wav
+Radio_Power_snd
+Radio_Power_snd.wav
+Train_Moving
+Train_Moving.wav
+Train_Moving_Static
+Train_Moving_Static.wav
+Paradox_Static
+Paradox_Static.wav
+Damage_snd
+Damage_snd.wav
+Box_Damage_snd
+Box_Damage_snd.wav
+Menu_Start_Hum
+Menu_Start_Hum.wav
+Menu_Ready_Click
+Menu_Ready_Click.wav
+Menu_Startup_Click
+Menu_Startup_Click.wav
+Menu_Hiss
+Menu_Hiss.wav
+Menu_Buzz
+Menu_Buzz.wav
+Chest
+Perforation_Tool
+Room_Time_Frame_Real
+Room_letters_primary
+Door_spr
+Cursor
+Door_Roof
+TV_frame_spr
+TV_Number
+TV_Static
+TV_Channel_spr
+TV_Switch
+TV_Button
+TV
+TV_Light
+Paradox_wall_borders
+Paradox_wall
+Box
+Box_Paradox
+End_Table
+End_Table_Battery
+End_Table_Key
+End_Table_Paradox
+Menu_Sprite
+Press_Start
+Press_Start_Off
+Button_Frame
+Buttons
+Start_Menu
+Pause_Menu
+old_start_menu
+Settings_Menu
+Quit_Menu
+Loading
+Menu_Needle
+Exit_Sprite
+Button_Frame_Backup
+sprite83
+Chair
+Fireplace
+Counter
+Coffee_Table
+Potted_Plant
+Bed
+Clothes_Hamper
+Firewood
+Fire_Tools
+Trashcan
+Dresser
+Keys_spr
+No_keys
+Lock_spr
+Train_Lights_Angle
+Train_Door_Light
+Train_Lights_Angle_Pan
+Train_Lights
+Train_Lights_Angle_Pan3
+Train_Lights_Angle_Pan4
+sprite133
+sprite128
+sprite127
+sprite124
+asdasd
+Train_Lights_Angle_Pan2
+sprite125
+sprite35
+sprite34
+sprite20
+sprite19
+sprite136
+sprite134
+Room_Time_Frame
+Dialogue_Box
+Room_Boundries
+Room_Boundry_Open
+inventory_spr
+Radio_Time_Travel_Animation
+sprite58
+Radio_Backgrounds
+Room_Transition
+Dying_Screen
+sprite113
+Radio_Close
+Dial
+Switch
+Needle
+Frequency_Meter
+Paradox_Meter
+Current_Location
+Radio
+Shadow_Sprite
+Hitbox
+Dot
+Player_F_Stand_Forward
+Player_F_Stand_Backward
+Player_F_Walk_Forward
+Player_F_Walk_Backward
+Player_M_Stand_Forward
+Player_M_Stand_Backward
+Player_M_Walk_Forward
+Player_M_Walk_Backward
+Karen_Stand_Forward
+Karen_Stand_Backward
+Karen_Walk_Forward
+Karen_Walk_Backward
+Karen_Death
+David_Stand_Forward
+David_Stand_Backward
+David_Walk_Forward
+David_Walk_Backward
+David_Kitchen
+David_Sit
+David_Choke_Player_F
+David_Choke_Player_M
+Paradox_Formation
+Paradox_Stand_Down
+Paradox_Walk_Down
+Characters
+Room_Time_Frame_Real_old
+Backup_Boundries
+sprite25
+Pawn
+sprite33
+Boundry
+Intro_Cutscene_Text
+Credits
+Train_Sprite
+Train_Door_Spr
+Train_Boundry
+Train_Light
+sprite91
+Station_Sprite
+Station_Boundry
+Track_Sprite
+Benches
+Door_Sprite
+sprite73
+sprite77
+sprite75
+sprite76
+sprite61
+sprite74
+sprite72
+sprite67
+sprite71
+sprite68
+sprite66
+sprite70
+sprite69
+Conversation
+Conversation_UI
+Face_David
+Face_Karis
+Page_spr
+sprite121
+Windows_Lighting_Front
+ICON
+Floating_Pixel
+Black_Background
+Level_Negative_7
+Level_Negative_6
+Level_Negative_5
+Level_Negative_4
+Level_Negative_3
+Level_Negative_2
+Level_Negative_1
+Level_0
+Level_Positive_1
+Level_Positive_2
+Level_Positive_3
+Level_Positive_4
+Level_Positive_5
+Level_Positive_6
+The_Room_Default
+background9
+background10
+background25
+background8
+background3
+background4
+background1
+background2
+The_Room
+Emtpy_Room
+PerforatedPixel
+Perforated_Letter
+Perforated_Large
+TV_Obj
+TV_Close_Obj
+Decide_Object
+Letters_Obj
+Paper_Obj
+Radio_Obj
+End_Table_Obj
+Door_Obj
+Interact
+Cursor_Obj
+Keys_Obj
+Chair_Obj
+Coffee_Table_Obj
+Clothes_Hamper_Obj
+Trashcan_Obj
+Bed_Obj
+Fire_Tools_Obj
+Firewood_Obj
+Potted_Plant_Obj
+Counter_Obj
+Fireplace_Obj
+Dresser_Obj
+Chest_Obj
+Box_Obj
+Object_Creator
+Object_Parent
+Dialog
+CEO
+Karis_Obj
+David_Obj
+achievement
+Menu_Screen_Object
+ECH_ROOM
+Boundry_Object
+Roof_Obj
+Floating_Pixel_Obj
+Dial_Obj
+Switch_Obj
+ECH_STATION
+Track_Object
+Benches_Object
+Door_Object
+Train_Object
+Intro_Cutscene
+Lock_Obj
+Player
+Shadow
+Camera
+Player_Paradox
+Paradox_Obj
+Train_Lights_Obj
+Paradox_Wall_Obj
+David_Ending
+Karis_Ending
+Train_Ending
+Ending_Train_Door
+Ending_Obj
+Menu
+Station_rm
+Room_rm
+Ending_rm
+Fake_Ending
+gml_Script_Dialog_add
+gml_Script_roundto
+gml_Object_TV_Obj_Create_0
+gml_Object_TV_Obj_Alarm_0
+gml_Object_TV_Obj_Step_0
+gml_Object_TV_Obj_Draw_0
+gml_Object_TV_Close_Obj_Create_0
+gml_Object_TV_Close_Obj_Step_0
+gml_Object_TV_Close_Obj_Draw_0
+gml_Object_TV_Close_Obj_KeyPress_69
+gml_Object_TV_Close_Obj_KeyPress_27
+gml_Object_Decide_Object_Create_0
+gml_Object_Decide_Object_Alarm_0
+gml_Object_Decide_Object_Step_0
+gml_Object_Decide_Object_Draw_0
+gml_Object_Decide_Object_KeyPress_32
+gml_Object_Letters_Obj_Create_0
+gml_Object_Letters_Obj_Step_0
+gml_Object_Paper_Obj_Create_0
+gml_Object_Paper_Obj_Destroy_0
+gml_Object_Paper_Obj_Step_0
+gml_Object_Paper_Obj_Draw_0
+gml_Object_Paper_Obj_KeyPress_69
+gml_Object_Paper_Obj_KeyPress_27
+gml_Object_Radio_Obj_Create_0
+gml_Object_Radio_Obj_Alarm_1
+gml_Object_Radio_Obj_Alarm_0
+gml_Object_Radio_Obj_Step_0
+gml_Object_Radio_Obj_Draw_0
+gml_Object_End_Table_Obj_Create_0
+gml_Object_End_Table_Obj_Alarm_0
+gml_Object_End_Table_Obj_Step_0
+gml_Object_End_Table_Obj_Draw_0
+gml_Object_Door_Obj_Create_0
+gml_Object_Door_Obj_Step_0
+gml_Object_Interact_Create_0
+gml_Object_Interact_Alarm_0
+gml_Object_Interact_Step_0
+gml_Object_Interact_Collision_25
+gml_Object_Cursor_Obj_Create_0
+gml_Object_Cursor_Obj_Alarm_0
+gml_Object_Cursor_Obj_Step_0
+gml_Object_Cursor_Obj_Collision_37
+gml_Object_Cursor_Obj_Collision_36
+gml_Object_Cursor_Obj_Mouse_56
+gml_Object_Cursor_Obj_Draw_0
+gml_Object_Keys_Obj_Create_0
+gml_Object_Keys_Obj_Step_0
+gml_Object_Keys_Obj_Draw_0
+gml_Object_Chair_Obj_Create_0
+gml_Object_Chair_Obj_Step_0
+gml_Object_Coffee_Table_Obj_Create_0
+gml_Object_Coffee_Table_Obj_Step_0
+gml_Object_Coffee_Table_Obj_Collision_3
+gml_Object_Clothes_Hamper_Obj_Create_0
+gml_Object_Clothes_Hamper_Obj_Step_0
+gml_Object_Trashcan_Obj_Create_0
+gml_Object_Trashcan_Obj_Step_0
+gml_Object_Bed_Obj_Create_0
+gml_Object_Bed_Obj_Step_0
+gml_Object_Fire_Tools_Obj_Create_0
+gml_Object_Fire_Tools_Obj_Step_0
+gml_Object_Firewood_Obj_Create_0
+gml_Object_Firewood_Obj_Step_0
+gml_Object_Potted_Plant_Obj_Create_0
+gml_Object_Potted_Plant_Obj_Step_0
+gml_Object_Counter_Obj_Create_0
+gml_Object_Counter_Obj_Step_0
+gml_Object_Fireplace_Obj_Create_0
+gml_Object_Fireplace_Obj_Step_0
+gml_Object_Dresser_Obj_Create_0
+gml_Object_Dresser_Obj_Step_0
+gml_Object_Chest_Obj_Create_0
+gml_Object_Chest_Obj_Alarm_0
+gml_Object_Chest_Obj_Step_0
+gml_Object_Box_Obj_Create_0
+gml_Object_Box_Obj_Step_0
+gml_Object_Box_Obj_Draw_0
+gml_Object_Object_Creator_Other_4
+gml_Object_Object_Parent_Create_0
+gml_Object_Object_Parent_Step_1
+gml_Object_Dialog_Create_0
+gml_Object_Dialog_Alarm_2
+gml_Object_Dialog_Alarm_1
+gml_Object_Dialog_Alarm_0
+gml_Object_Dialog_Step_0
+gml_Object_Dialog_Draw_0
+gml_Object_Dialog_KeyPress_32
+gml_Object_CEO_Create_0
+gml_Object_CEO_Alarm_1
+gml_Object_CEO_Alarm_0
+gml_Object_CEO_Step_0
+gml_Object_CEO_Other_4
+gml_Object_CEO_Draw_0
+gml_Object_CEO_KeyPress_120
+gml_Object_CEO_KeyPress_119
+gml_Object_CEO_KeyPress_116
+gml_Object_CEO_KeyPress_32
+gml_Object_CEO_KeyPress_27
+gml_Object_Karis_Obj_Create_0
+gml_Object_Karis_Obj_Alarm_5
+gml_Object_Karis_Obj_Alarm_4
+gml_Object_Karis_Obj_Alarm_3
+gml_Object_Karis_Obj_Alarm_2
+gml_Object_Karis_Obj_Alarm_1
+gml_Object_Karis_Obj_Alarm_0
+gml_Object_Karis_Obj_Step_0
+gml_Object_Karis_Obj_Draw_0
+gml_Object_Karis_Obj_KeyPress_69
+gml_Object_Karis_Obj_KeyPress_32
+gml_Object_David_Obj_Create_0
+gml_Object_David_Obj_Alarm_3
+gml_Object_David_Obj_Alarm_2
+gml_Object_David_Obj_Alarm_1
+gml_Object_David_Obj_Alarm_0
+gml_Object_David_Obj_Step_0
+gml_Object_David_Obj_Draw_0
+gml_Object_David_Obj_KeyPress_69
+gml_Object_David_Obj_KeyPress_32
+gml_Object_David_Obj_KeyPress_27
+gml_Object_achievement_Create_0
+gml_Object_achievement_Step_0
+gml_Object_Menu_Screen_Object_Alarm_9
+gml_Object_Menu_Screen_Object_Alarm_5
+gml_Object_Menu_Screen_Object_Alarm_4
+gml_Object_Menu_Screen_Object_Alarm_3
+gml_Object_Menu_Screen_Object_Alarm_2
+gml_Object_Menu_Screen_Object_Alarm_1
+gml_Object_Menu_Screen_Object_Alarm_0
+gml_Object_Menu_Screen_Object_Step_0
+gml_Object_Menu_Screen_Object_Other_2
+gml_Object_Menu_Screen_Object_Draw_0
+gml_Object_Menu_Screen_Object_KeyPress_32
+gml_Object_Menu_Screen_Object_KeyPress_27
+gml_Object_ECH_ROOM_Create_0
+gml_Object_ECH_ROOM_Step_0
+gml_Object_ECH_ROOM_Draw_0
+gml_Object_Boundry_Object_Create_0
+gml_Object_Boundry_Object_Step_0
+gml_Object_Roof_Obj_Create_0
+gml_Object_Roof_Obj_Step_0
+gml_Object_Floating_Pixel_Obj_Create_0
+gml_Object_Floating_Pixel_Obj_Collision_32
+gml_Object_Floating_Pixel_Obj_Other_1
+gml_Object_Floating_Pixel_Obj_Other_0
+gml_Object_Floating_Pixel_Obj_Draw_0
+gml_Object_Dial_Obj_Create_0
+gml_Object_Dial_Obj_Alarm_0
+gml_Object_Dial_Obj_Step_0
+gml_Object_Dial_Obj_Draw_0
+gml_Object_Switch_Obj_Create_0
+gml_Object_Switch_Obj_Step_0
+gml_Object_Switch_Obj_Mouse_4
+gml_Object_Switch_Obj_Draw_0
+gml_Object_ECH_STATION_Create_0
+gml_Object_ECH_STATION_Step_0
+gml_Object_ECH_STATION_Draw_0
+gml_Object_Track_Object_Create_0
+gml_Object_Track_Object_Step_0
+gml_Object_Track_Object_Draw_0
+gml_Object_Track_Object_KeyPress_84
+gml_Object_Benches_Object_Create_0
+gml_Object_Door_Object_Create_0
+gml_Object_Door_Object_Alarm_2
+gml_Object_Door_Object_Alarm_1
+gml_Object_Door_Object_Alarm_0
+gml_Object_Door_Object_Step_0
+gml_Object_Door_Object_Collision_45
+gml_Object_Door_Object_Draw_0
+gml_Object_Train_Object_Create_0
+gml_Object_Train_Object_Alarm_0
+gml_Object_Train_Object_Step_0
+gml_Object_Train_Object_Draw_0
+gml_Object_Intro_Cutscene_Create_0
+gml_Object_Intro_Cutscene_Alarm_2
+gml_Object_Intro_Cutscene_Alarm_1
+gml_Object_Intro_Cutscene_Alarm_0
+gml_Object_Intro_Cutscene_Step_0
+gml_Object_Intro_Cutscene_Other_4
+gml_Object_Intro_Cutscene_Draw_0
+gml_Object_Lock_Obj_Create_0
+gml_Object_Lock_Obj_Alarm_4
+gml_Object_Lock_Obj_Alarm_3
+gml_Object_Lock_Obj_Alarm_2
+gml_Object_Lock_Obj_Alarm_1
+gml_Object_Lock_Obj_Alarm_0
+gml_Object_Lock_Obj_Step_0
+gml_Object_Lock_Obj_Draw_0
+gml_Object_Lock_Obj_KeyPress_69
+gml_Object_Lock_Obj_KeyPress_27
+gml_Object_Player_Create_0
+gml_Object_Player_Alarm_1
+gml_Object_Player_Alarm_0
+gml_Object_Player_Step_0
+gml_Object_Player_Collision_55
+gml_Object_Player_Collision_54
+gml_Object_Player_Collision_51
+gml_Object_Player_Collision_34
+gml_Object_Player_Other_0
+gml_Object_Player_Draw_0
+gml_Object_Shadow_Step_0
+gml_Object_Shadow_Draw_0
+gml_Object_Camera_Create_0
+gml_Object_Camera_Step_0
+gml_Object_Camera_Other_4
+gml_Object_Camera_Draw_0
+gml_Object_Player_Paradox_Create_0
+gml_Object_Player_Paradox_Destroy_0
+gml_Object_Player_Paradox_Step_0
+gml_Object_Player_Paradox_Collision_45
+gml_Object_Player_Paradox_Draw_0
+gml_Object_Paradox_Obj_Create_0
+gml_Object_Paradox_Obj_Destroy_0
+gml_Object_Paradox_Obj_Alarm_0
+gml_Object_Paradox_Obj_Step_0
+gml_Object_Paradox_Obj_Collision_45
+gml_Object_Paradox_Obj_Draw_0
+gml_Object_Train_Lights_Obj_Create_0
+gml_Object_Train_Lights_Obj_Destroy_0
+gml_Object_Train_Lights_Obj_Alarm_2
+gml_Object_Train_Lights_Obj_Alarm_1
+gml_Object_Train_Lights_Obj_Alarm_0
+gml_Object_Train_Lights_Obj_Step_0
+gml_Object_Train_Lights_Obj_Draw_0
+gml_Object_Paradox_Wall_Obj_Create_0
+gml_Object_Paradox_Wall_Obj_Step_0
+gml_Object_Paradox_Wall_Obj_Draw_0
+gml_Object_David_Ending_Create_0
+gml_Object_David_Ending_Alarm_0
+gml_Object_David_Ending_Step_0
+gml_Object_David_Ending_Collision_54
+gml_Object_David_Ending_Draw_0
+gml_Object_Karis_Ending_Create_0
+gml_Object_Karis_Ending_Step_0
+gml_Object_Karis_Ending_Draw_0
+gml_Object_Train_Ending_Create_0
+gml_Object_Train_Ending_Step_0
+gml_Object_Train_Ending_Draw_0
+gml_Object_Ending_Train_Door_Create_0
+gml_Object_Ending_Train_Door_Alarm_0
+gml_Object_Ending_Obj_Create_0
+gml_Object_Ending_Obj_Alarm_2
+gml_Object_Ending_Obj_Alarm_1
+gml_Object_Ending_Obj_Alarm_0
+gml_Object_Ending_Obj_Step_0
+gml_Object_Ending_Obj_Draw_0
