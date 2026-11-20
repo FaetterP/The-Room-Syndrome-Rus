@@ -12,7 +12,7 @@ https://boosty.to/faetterp
 
 ## Установка
 
-1) Скачать архив: https://github.com/FaetterP/The-Room-Syndrome-Rus/releases/download/v17-11-2026/The-Room-Syndrome-Rus.zip
+1) Скачать архив: https://github.com/FaetterP/The-Room-Syndrome-Rus/releases/download/v20-11-2026/The-Room-Syndrome-Rus.zip
 
 2) Открыть папку с игрой.  
 Для этого в библиотеке нужно найти игру, нажать ПКМ и выбрать `Управление → Просмотреть локальные файлы`.  
